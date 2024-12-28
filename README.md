@@ -14,7 +14,6 @@ This project focuses on analyzing Netflix movies from the 1990s using explorator
 To run the analysis, you need the following libraries:
 - pandas
 - matplotlib
-- seaborn
 
 You can install the required libraries using the following command:
 ```bash
